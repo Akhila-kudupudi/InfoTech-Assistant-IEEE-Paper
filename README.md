@@ -10,8 +10,8 @@ Published IEEE paper on a multimodal chatbot for infrastructure technology.
 
 ## 📄 Published Paper
 
-📥 **[Download PDF](./IEEE_BigData2024_InfoTech_Chatbot.pdf)**  
-🔗 **[View on IEEE Xplore](https://ieeexplore.ieee.org/document/10825668)**
+📥 [Download PDF](./IEEE_BigData2024_InfoTech_Chatbot.pdf) 
+🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10825668)
 
 ---
 
